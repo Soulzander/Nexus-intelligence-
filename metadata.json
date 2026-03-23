@@ -1,0 +1,5 @@
+{
+  "name": "NVIDIA AI Chat & Image",
+  "description": "A powerful AI assistant with text and image generation capabilities powered by NVIDIA NIM and Gemini.",
+  "requestFramePermissions": []
+}
